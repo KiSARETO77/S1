@@ -1,3 +1,4 @@
 requests
 flask
 json_minify
+amino.fix
