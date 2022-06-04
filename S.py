@@ -15,7 +15,7 @@ V("clear")
 print(IB)
 print(IK.renderText("Views"))
 print("\n\n\n")
-LINK1 = (input(f"{IY}Link Chat : {IB}"))
+LINK1 = "http://aminoapps.com/p/ftctiv"
 print("\n\n\n")
 file = path.dirname(path.abspath(__file__))
 ACCOUNT = path.join(file,"accounts.json")
