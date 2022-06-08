@@ -5,8 +5,8 @@ def F():
 def G():
 	os.system("python main1.py")
 	
-S=threding.Thread(traget=F,args=())
-D=threding.Thread(traget=G,args=())
+S=threading.Thread(traget=F,args=())
+D=threading.Thread(traget=G,args=())
 
 S.start()
 D.start()
