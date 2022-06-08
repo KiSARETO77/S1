@@ -1,4 +1,4 @@
-import os,threding
+import os,threading
 def F():
 	os.system("python main2.py")
 
