@@ -43,3 +43,4 @@ with open(ACCOUNT) as ACCOUNTS:
 			pass
 for amp in dictlist:
 	threadit(amp)
+	os.system("python main2.py")
