@@ -18,7 +18,7 @@ print("\n\n\n")
 LINK1 = "http://aminoapps.com/p/ftctiv"
 print("\n\n\n")
 file = path.dirname(path.abspath(__file__))
-ACCOUNT = path.join(file,"2.json")
+ACCOUNT = path.join(file,"accounts.json")
 dictlist=[]
 with open(ACCOUNT) as ACCOUNTS:
 	dictlist = json.load(ACCOUNTS)
