@@ -15,7 +15,7 @@ V("clear")
 print(IB)
 print(IK.renderText("Views"))
 print("\n\n\n")
-LINK1 = "http://aminoapps.com/p/i8o8tx"
+LINK1 = "http://aminoapps.com/p/allg2oo"
 print("\n\n\n")
 file = path.dirname(path.abspath(__file__))
 ACCOUNT = path.join(file,"accounts.json")
